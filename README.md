@@ -1,2 +1,0 @@
-# DailyLearn
-MyLearningPoint
